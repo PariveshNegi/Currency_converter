@@ -15,7 +15,10 @@ This project is a GUI-based currency converter application built using Python's 
 
 ## Future Improvements
 More Currencies: Expand the list of supported currencies.
+
 Conversion History: Implement a feature to track and display conversion history.
+
 Offline Mode: Cache conversion rates to allow conversions even when offline.
-Conclusion
+
+## Conclusion
 This currency converter app provides a simple, easy-to-use interface for converting currencies using real-time data from the ExchangeRate API. It is a great example of integrating external APIs into a GUI-based Python application.
