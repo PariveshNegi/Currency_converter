@@ -1,3 +1,9 @@
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Currency+Converter!&center=true&size=30">
+  </a>
+</h1>
+
 # Overview
 This project is a GUI-based currency converter application built using Python's Tkinter library. The application takes input of two currencies and an amount from the user, fetches the real-time conversion rate from the ExchangeRate API, and displays the equivalent amount in the desired currency.
 
